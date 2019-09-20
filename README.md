@@ -76,6 +76,7 @@ If you complete **everything to the end**, you will get a **bonus skill of autom
 1. **Project: Password Locker**
 2. **Project: Adding Bullets to Wiki Markup**
 <br>
+
 -----
 ### Let's Get Into The Automation Stuff
 -----
