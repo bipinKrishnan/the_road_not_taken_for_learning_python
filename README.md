@@ -1,7 +1,7 @@
 ### The Road Not Taken for Learning Python
 ------
 ### The Basics
-
+------
 ## Day 1 
 1. Entering Expressions into the Interactive Shell 
 2. The Integer, Floating-Point, and String Data Types
@@ -116,7 +116,7 @@
 2. IDLE’s Debugger
 -----
 ### Let's Do Some Web Scraping
-
+-----
 ## Day 1
 1. Web Scraping - Introduction
 2. **Project: mapit.py with the webbrowser Module**
@@ -167,7 +167,7 @@
 1. **Project: Fetching Current Weather Data**
 -----
 ### It's time to play with Time
-
+-----
 ## Day 1
 1. Keeping Time, Scheduling Tasks, and Launching Programs - Introduction
 2. The time Module
@@ -182,7 +182,7 @@
 4. **Project: Simple Countdown Program**
 ------
 ### Let's Send Some E-Mails and Text Messages
-
+------
 ## Day 1 
 1. Sending Email and Text Messages - Introduction
 2. SMTP
@@ -197,7 +197,7 @@
 1. **Sending Text Messages with Twilio**
 ------
 ### Let's Do Some Freaky Stuff On Images
-
+------
 ## Day 1
 1. Manipulating Images - Introduction
 2. Computer Image Fundamentals
@@ -208,7 +208,7 @@
 2. Drawing on Images
 ------
 ### Want To Control Your Keyboard And Mouse With Python ???
-
+------
 ## Day 1 
 1. Controlling the Keyboard and Mouse with GUI Automation - Introduction
 2. Installing the pyautogui Module
