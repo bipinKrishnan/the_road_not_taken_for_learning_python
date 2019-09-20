@@ -62,8 +62,7 @@
 ## Day 10
 1. **Project: Password Locker**
 2. **Project: Adding Bullets to Wiki Markup**
-
-
+-----
 ### Let's Get Into The Automation Stuff
 
 
