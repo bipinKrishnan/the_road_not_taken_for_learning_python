@@ -129,6 +129,8 @@ If you complete **everything to the end**, you will get a **bonus skill of autom
 ## Day 7
 1. Logging
 2. IDLE’s Debugger
+<br>
+
 -----
 ### Let's Do Some Web Scraping
 -----
@@ -180,6 +182,8 @@ If you complete **everything to the end**, you will get a **bonus skill of autom
 
 ## Day 9
 1. **Project: Fetching Current Weather Data**
+<br>
+
 -----
 ### It's time to play with Time
 -----
@@ -195,6 +199,8 @@ If you complete **everything to the end**, you will get a **bonus skill of autom
 2. **Project: Multithreaded XKCD Downloader**
 3. **Launching Other Programs from Python**
 4. **Project: Simple Countdown Program**
+<br>
+
 ------
 ### Let's Send Some E-Mails and Text Messages
 ------
@@ -210,6 +216,8 @@ If you complete **everything to the end**, you will get a **bonus skill of autom
 
 ## Day 3
 1. **Sending Text Messages with Twilio**
+<br>
+
 ------
 ### Let's Do Some Freaky Stuff On Images
 ------
@@ -221,6 +229,8 @@ If you complete **everything to the end**, you will get a **bonus skill of autom
 ## Day 2
 1. **Project: Adding a Logo**
 2. Drawing on Images
+<br>
+
 ------
 ### Want To Control Your Keyboard And Mouse With Python ???
 ------
