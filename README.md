@@ -1,7 +1,6 @@
 # The Road Not Taken for Learning Python
 
 ### Day 1
-------
 * Entering Expressions into the Interactive Shell - The len() Function
 
 ## Day 2
