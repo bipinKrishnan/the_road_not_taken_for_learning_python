@@ -1,6 +1,6 @@
-# The Road Not Taken for Learning Python
+### The Road Not Taken for Learning Python
 
-## **The Basics**
+### The Basics
 
 ## Day 1 
 1. Entering Expressions into the Interactive Shell 
