@@ -5,3 +5,6 @@
 
 ## Day 2
 * The str(), int(), and float() Functions - Mixing Boolean and Comparison Operators
+
+## Day 3
+* Elements of Flow Control
