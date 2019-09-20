@@ -6,7 +6,7 @@ Ever Thought Of Learning **Python In 35 Days**.
 This syllabus will take you from **absolute beginner** to the **boundary between Intermediate and Expert Python Programmer**.
 <br>
 <br>
-If you complete **everything to the end**, you will get a bonus skill of **automation on top of python programmer**.
+If you complete **everything to the end**, you will get a bonus skill of **automation, on top of the python skillset**.
 
 ------
 ### Let's Built The Foundation
