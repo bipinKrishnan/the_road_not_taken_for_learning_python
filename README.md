@@ -64,7 +64,7 @@
 2. **Project: Adding Bullets to Wiki Markup**
 -----
 ### Let's Get Into The Automation Stuff
-
+-----
 
 ## Day 1
 1. Pattern Matching with Regular Expressions - Introduction
