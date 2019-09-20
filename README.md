@@ -10,8 +10,6 @@ If you complete **everything to the end**, you will get a **bonus skill of autom
 <br>
 
 ### Take the Challenge, Fire Up Your Systems 
-<br>
-
 ------
 ### Let's Built The Foundation
 ------
