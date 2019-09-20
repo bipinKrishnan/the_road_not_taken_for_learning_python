@@ -63,7 +63,9 @@
 1. **Project: Password Locker**
 2. **Project: Adding Bullets to Wiki Markup**
 
+
 ### Let's Get Into The Automation Stuff
+
 
 ## Day 1
 1. Pattern Matching with Regular Expressions - Introduction
@@ -113,6 +115,7 @@
 ## Day 7
 1. Logging
 2. IDLE’s Debugger
+
 
 ### Let's Do Some Web Scraping
 
@@ -165,6 +168,7 @@
 ## Day 9
 1. **Project: Fetching Current Weather Data**
 
+
 ### It's time to play with Time
 
 ## Day 1
@@ -179,6 +183,7 @@
 2. **Project: Multithreaded XKCD Downloader**
 3. **Launching Other Programs from Python**
 4. **Project: Simple Countdown Program**
+
 
 ### Let's Send Some E-Mails and Text Messages
 
@@ -205,6 +210,7 @@
 ## Day 2
 1. **Project: Adding a Logo**
 2. Drawing on Images
+
 
 ### Want To Control Your Keyboard And Mouse With Python ???
 
