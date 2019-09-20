@@ -1,1 +1,6 @@
-# the_road_not_taken_for_learning_python
+# The Road Not Taken for Learning Python
+
+## Day 1
+* Entering Expressions into the Interactive Shell - The len() Function
+## Day 2
+* The str(), int(), and float() Functions - Mixing Boolean and Comparison Operators
