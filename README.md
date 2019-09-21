@@ -1,4 +1,4 @@
-### The Road Not Taken for Learning Python
+### Are you ready for The 35 Day Challenge
 
 Ever Thought Of Learning **Python In 35 Days**.
 <br>
